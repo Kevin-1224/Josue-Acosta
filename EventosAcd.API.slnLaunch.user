@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "EventosAcd.API\\EventosAcd.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RegistroTest\\RegistroTest.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\bin\Debug\net8.0\EventosModelos.deps.json
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\bin\Debug\net8.0\EventosModelos.dll
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\bin\Debug\net8.0\EventosModelos.pdb
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\obj\Debug\net8.0\EventosModelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\obj\Debug\net8.0\EventosModelos.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\obj\Debug\net8.0\EventosModelos.AssemblyInfo.cs
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\obj\Debug\net8.0\EventosModelos.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\obj\Debug\net8.0\EventosModelos.dll
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\obj\Debug\net8.0\refint\EventosModelos.dll
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\obj\Debug\net8.0\EventosModelos.pdb
+C:\Users\lopez\source\repos\EventosAcd.API\EventosModelos\obj\Debug\net8.0\ref\EventosModelos.dll
